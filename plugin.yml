@@ -1,0 +1,6 @@
+name: Clan
+version: '1.0-SNAPSHOT'
+main: cz.revivalo.clan.Clan
+api-version: 1.19
+commands:
+  clan:
